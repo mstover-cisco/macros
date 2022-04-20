@@ -12,4 +12,6 @@ writing, software distributed under the License is distributed on an "AS
 IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
 or implied.
 
-This repository contains a selection of RoomOS Macros that I've worked on. Each macro is contained in it's own subdirectory and needs to be manually installed by the adminstrator.
+This repository contains a selection of RoomOS Macros that have been modified
+or developed to address unique deployment challenges. Each macro is contained
+in it's own subdirectory and must be manually installed by the adminstrator.

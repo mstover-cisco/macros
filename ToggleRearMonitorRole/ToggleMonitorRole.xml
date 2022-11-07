@@ -1,0 +1,33 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>monitor_layout_panel</PanelId>
+    <Type>Home</Type>
+    <Icon>Tv</Icon>
+    <Name>Monitor Layout</Name>
+    <ActivityType>Custom</ActivityType>
+    <Page>
+      <Name>Monitor Layout</Name>
+      <Row>
+        <Name>Layout Selection</Name>
+        <Widget>
+          <WidgetId>Monitor_Layout</WidgetId>
+          <Type>GroupButton</Type>
+          <Options>size=4</Options>
+          <ValueSpace>
+            <Value>
+              <Key>1</Key>
+              <Name>A</Name>
+            </Value>
+            <Value>
+              <Key>2</Key>
+              <Name>B</Name>
+            </Value>
+          </ValueSpace>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
